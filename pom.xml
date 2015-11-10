@@ -5,9 +5,7 @@
 
   
   <groupId>org.athento.nuxeo</groupId>
-  <artifactId>title_with_permlink</artifactId>
     <version>1.0</version>
-  <name>title_with_permlink</name>
   <description>
     
   </description>
@@ -139,4 +137,6 @@
     </pluginRepository>
   </pluginRepositories>
 
-        </project>
+  <artifactId>athento-nx-big-lock-message</artifactId>
+  <name>athento-nx-big-lock-message</name>
+</project>
